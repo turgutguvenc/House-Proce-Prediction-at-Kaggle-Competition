@@ -1,1 +1,1 @@
-# House-Proce-Prediction-at-Kaggle-Competition
+# House-Price-Prediction-at-Kaggle-Competition
